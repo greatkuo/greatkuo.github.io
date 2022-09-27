@@ -1,1 +1,1 @@
-"# greatkuo.github.io" 
+# Great Kuo Page
